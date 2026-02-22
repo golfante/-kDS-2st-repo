@@ -3,4 +3,9 @@ name = "proj2-pycharm"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "pandas>=3.0.1",
+    "pydantic-settings>=2.13.1",
+    "sci-learn>=0.1.4",
+    "scipy>=1.17.0",
+]
